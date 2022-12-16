@@ -1,0 +1,15 @@
+C:\Users\Студент\Desktop\mysor\BogdanAndAlex(GuitarShop)\bin\Debug\Database.mdf
+C:\Users\Студент\Desktop\mysor\BogdanAndAlex(GuitarShop)\bin\Debug\Database_log.ldf
+C:\Users\Студент\Desktop\mysor\BogdanAndAlex(GuitarShop)\bin\Debug\BogdanAndAlex(GuitarShop).exe.config
+C:\Users\Студент\Desktop\mysor\BogdanAndAlex(GuitarShop)\bin\Debug\BogdanAndAlex(GuitarShop).exe
+C:\Users\Студент\Desktop\mysor\BogdanAndAlex(GuitarShop)\bin\Debug\BogdanAndAlex(GuitarShop).pdb
+C:\Users\Студент\Desktop\mysor\BogdanAndAlex(GuitarShop)\obj\Debug\BogdanAndAlex(GuitarShop).csproj.AssemblyReference.cache
+C:\Users\Студент\Desktop\mysor\BogdanAndAlex(GuitarShop)\obj\Debug\BogdanAndAlex(GuitarShop).csproj.SuggestedBindingRedirects.cache
+C:\Users\Студент\Desktop\mysor\BogdanAndAlex(GuitarShop)\obj\Debug\BogdanAndAlex_GuitarShop_.Form1.resources
+C:\Users\Студент\Desktop\mysor\BogdanAndAlex(GuitarShop)\obj\Debug\BogdanAndAlex_GuitarShop_.Properties.Resources.resources
+C:\Users\Студент\Desktop\mysor\BogdanAndAlex(GuitarShop)\obj\Debug\BogdanAndAlex_GuitarShop_.Registration.resources
+C:\Users\Студент\Desktop\mysor\BogdanAndAlex(GuitarShop)\obj\Debug\BogdanAndAlex(GuitarShop).csproj.GenerateResource.cache
+C:\Users\Студент\Desktop\mysor\BogdanAndAlex(GuitarShop)\obj\Debug\BogdanAndAlex(GuitarShop).csproj.CoreCompileInputs.cache
+C:\Users\Студент\Desktop\mysor\BogdanAndAlex(GuitarShop)\obj\Debug\BogdanAndAlex(GuitarShop).exe
+C:\Users\Студент\Desktop\mysor\BogdanAndAlex(GuitarShop)\obj\Debug\BogdanAndAlex(GuitarShop).pdb
+C:\Users\Студент\Desktop\mysor\BogdanAndAlex(GuitarShop)\obj\Debug\BogdanAndAlex_GuitarShop_.MainPage.resources
